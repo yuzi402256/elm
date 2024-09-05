@@ -7,7 +7,7 @@
 
 ### . 青龙面板
 - 拉取仓库
- ql repo https://github.com/AutMan7/new-elm.git "^ele" "" "USER|common|ql|sendNotify1
+ ql repo https://github.com/AutMan7/elm.git "^ele" "" "USER|common|ql|sendNotify1
 
 
 ## new-elm访问量
